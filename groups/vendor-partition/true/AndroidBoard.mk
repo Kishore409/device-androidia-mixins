@@ -1,0 +1,2 @@
+
+$(PRODUCT_OUT)/vendor.img : $(KERNEL_MODULES_INSTALL)
